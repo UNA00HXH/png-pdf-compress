@@ -1,0 +1,3 @@
+Pillow>=10.0
+Pygments>=2.16
+img2pdf>=0.5
